@@ -1,0 +1,114 @@
+fileFormatVersion: 2
+guid: 1495971c97435cc4091409949a60bb1e
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: InteriorStructureElectricBoxesLayout01
+    100004: InteriorStructurePlatingLayout01
+    100006: WireFloorModule
+    100008: ControlFusePanel
+    100010: InteriorStructureO2CanistersLayout01
+    100012: HullWindow
+    100014: InteriorStructureLayout01
+    100016: InteriorStructureControlPanelLayout01
+    100018: InteriorStructureHosingLayout01
+    100020: InteriorStructureWindowLayout01
+    400000: //RootNode
+    400002: InteriorStructureElectricBoxesLayout01
+    400004: InteriorStructurePlatingLayout01
+    400006: WireFloorModule
+    400008: ControlFusePanel
+    400010: InteriorStructureO2CanistersLayout01
+    400012: HullWindow
+    400014: InteriorStructureLayout01
+    400016: InteriorStructureControlPanelLayout01
+    400018: InteriorStructureHosingLayout01
+    400020: InteriorStructureWindowLayout01
+    2300000: //RootNode
+    2300002: InteriorStructureElectricBoxesLayout01
+    2300004: InteriorStructurePlatingLayout01
+    2300006: WireFloorModule
+    2300008: ControlFusePanel
+    2300010: InteriorStructureO2CanistersLayout01
+    2300012: HullWindow
+    2300014: InteriorStructureLayout01
+    2300016: InteriorStructureControlPanelLayout01
+    2300018: InteriorStructureHosingLayout01
+    2300020: InteriorStructureWindowLayout01
+    3300000: //RootNode
+    3300002: InteriorStructureElectricBoxesLayout01
+    3300004: InteriorStructurePlatingLayout01
+    3300006: WireFloorModule
+    3300008: ControlFusePanel
+    3300010: InteriorStructureO2CanistersLayout01
+    3300012: HullWindow
+    3300014: InteriorStructureLayout01
+    3300016: InteriorStructureControlPanelLayout01
+    3300018: InteriorStructureHosingLayout01
+    3300020: InteriorStructureWindowLayout01
+    4300000: InteriorStructureLayout01
+    4300002: InteriorStructureElectricBoxesLayout01
+    4300004: InteriorStructurePlatingLayout01
+    4300006: WireFloorModule
+    4300008: InteriorStructureO2CanistersLayout01
+    4300010: ControlFusePanel
+    4300012: HullWindow
+    4300014: InteriorStructureHosingLayout01
+    4300016: InteriorStructureControlPanelLayout01
+    4300018: InteriorStructureWindowLayout01
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0599999987
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 

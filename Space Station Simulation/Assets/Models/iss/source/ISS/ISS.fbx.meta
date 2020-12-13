@@ -1,0 +1,898 @@
+fileFormatVersion: 2
+guid: 9861be56297bb1941bf780957c424da7
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Cinema_4D_Editor
+    100002: //RootNode
+    100004: ISS
+    100006: iss_d_ring
+    100008: iss_graple
+    100010: iss_iss_d0
+    100012: iss_iss_dc
+    100014: iss_iss_un
+    100016: iss_issb2_
+    100018: iss_issb3_
+    100020: iss_issb4_
+    100022: iss_issb_7
+    100024: iss_issbs0
+    100026: iss_issbs_
+    100028: iss_issbso
+    100030: iss_issco0
+    100032: iss_isscov
+    100034: iss_isscup
+    100036: iss_issdis
+    100038: iss_issdot
+    100040: iss_issesa
+    100042: iss_isshan
+    100044: iss_issins
+    100046: iss_issku0
+    100048: iss_issku1
+    100050: iss_issku2
+    100052: iss_issku3
+    100054: iss_issku4
+    100056: iss_issku_
+    100058: iss_issmb_
+    100060: iss_issmod
+    100062: iss_issp20
+    100064: iss_issp21
+    100066: iss_issp2_
+    100068: iss_isspan
+    100070: iss_issrad
+    100072: iss_issred
+    100074: iss_isssol
+    100076: iss_issus1
+    100078: iss_issusa
+    100080: iss_isszmo
+    100082: iss_metalc
+    100084: iss_nasda_
+    100086: iss_questc
+    100088: mesh832
+    100090: mesh833
+    100092: mesh858
+    100094: mesh859
+    100096: mesh860
+    100098: mesh861
+    100100: mesh862
+    100102: mesh863
+    100104: mesh864
+    100106: mesh865
+    100108: mesh866
+    100110: mesh867
+    100112: mesh868
+    100114: mesh869
+    100116: mesh870
+    100118: mesh871
+    100120: mesh872
+    100122: mesh873
+    100124: mesh874
+    100126: mesh875
+    100128: mesh876
+    100130: mesh877
+    100132: mesh878
+    100134: mesh879
+    100136: mesh880
+    100138: mesh881
+    100140: mesh882
+    100142: mesh883
+    100144: mesh884
+    100146: mesh885
+    100148: mesh886
+    100150: mesh887
+    100152: mesh888
+    100154: mesh889
+    100156: mesh890
+    100158: mesh891
+    100160: mesh892
+    100162: mesh893
+    100164: mesh894
+    100166: mesh895
+    100168: mesh896
+    100170: mesh897
+    100172: mesh898
+    100174: mesh899
+    100176: mesh900
+    100178: mesh901
+    100180: mesh902
+    100182: mesh903
+    100184: mesh904
+    100186: mesh905
+    100188: mesh906
+    100190: mesh907
+    100192: mesh908
+    100194: mesh909
+    100196: mesh910
+    100198: mesh911
+    100200: mesh912
+    100202: mesh913
+    100204: mesh914
+    100206: mesh915
+    100208: mesh916
+    100210: mesh917
+    100212: mesh918
+    100214: mesh919
+    100216: mplm_issle
+    100218: mplm_issus
+    400000: Cinema_4D_Editor
+    400002: //RootNode
+    400004: ISS
+    400006: iss_d_ring
+    400008: iss_graple
+    400010: iss_iss_d0
+    400012: iss_iss_dc
+    400014: iss_iss_un
+    400016: iss_issb2_
+    400018: iss_issb3_
+    400020: iss_issb4_
+    400022: iss_issb_7
+    400024: iss_issbs0
+    400026: iss_issbs_
+    400028: iss_issbso
+    400030: iss_issco0
+    400032: iss_isscov
+    400034: iss_isscup
+    400036: iss_issdis
+    400038: iss_issdot
+    400040: iss_issesa
+    400042: iss_isshan
+    400044: iss_issins
+    400046: iss_issku0
+    400048: iss_issku1
+    400050: iss_issku2
+    400052: iss_issku3
+    400054: iss_issku4
+    400056: iss_issku_
+    400058: iss_issmb_
+    400060: iss_issmod
+    400062: iss_issp20
+    400064: iss_issp21
+    400066: iss_issp2_
+    400068: iss_isspan
+    400070: iss_issrad
+    400072: iss_issred
+    400074: iss_isssol
+    400076: iss_issus1
+    400078: iss_issusa
+    400080: iss_isszmo
+    400082: iss_metalc
+    400084: iss_nasda_
+    400086: iss_questc
+    400088: mesh832
+    400090: mesh833
+    400092: mesh858
+    400094: mesh859
+    400096: mesh860
+    400098: mesh861
+    400100: mesh862
+    400102: mesh863
+    400104: mesh864
+    400106: mesh865
+    400108: mesh866
+    400110: mesh867
+    400112: mesh868
+    400114: mesh869
+    400116: mesh870
+    400118: mesh871
+    400120: mesh872
+    400122: mesh873
+    400124: mesh874
+    400126: mesh875
+    400128: mesh876
+    400130: mesh877
+    400132: mesh878
+    400134: mesh879
+    400136: mesh880
+    400138: mesh881
+    400140: mesh882
+    400142: mesh883
+    400144: mesh884
+    400146: mesh885
+    400148: mesh886
+    400150: mesh887
+    400152: mesh888
+    400154: mesh889
+    400156: mesh890
+    400158: mesh891
+    400160: mesh892
+    400162: mesh893
+    400164: mesh894
+    400166: mesh895
+    400168: mesh896
+    400170: mesh897
+    400172: mesh898
+    400174: mesh899
+    400176: mesh900
+    400178: mesh901
+    400180: mesh902
+    400182: mesh903
+    400184: mesh904
+    400186: mesh905
+    400188: mesh906
+    400190: mesh907
+    400192: mesh908
+    400194: mesh909
+    400196: mesh910
+    400198: mesh911
+    400200: mesh912
+    400202: mesh913
+    400204: mesh914
+    400206: mesh915
+    400208: mesh916
+    400210: mesh917
+    400212: mesh918
+    400214: mesh919
+    400216: mplm_issle
+    400218: mplm_issus
+    2000000: Cinema_4D_Editor
+    2100000: issmod with Tex_
+    2100002: white
+    2100004: material04
+    2100006: Material2
+    2100008: Material1
+    2100010: Material3
+    2100012: bluebg
+    2100014: isscover with Te
+    2100016: issleo with Tex_
+    2100018: issusaf with 1
+    2100020: 19 - Default
+    2100022: Default
+    2100024: issusa with Tex_
+    2100026: issred with Tex_
+    2100028: iss_un with Tex_
+    2100030: isshand with Tex
+    2100032: isscov2 with Tex
+    2100034: graple with Tex_
+    2100036: questcov with Te
+    2100038: issins with Tex_
+    2100040: metalcon with Te
+    2100042: isscup with Tex_
+    2100044: issbs with Tex__
+    2100046: issesa with Tex_
+    2100048: issrad with Tex_
+    2100050: nasda with Tex__
+    2100052: issusaf with Tex
+    2100054: issmb with Tex__
+    2100056: issbso2 with Tex
+    2100058: issbso with Tex_
+    2100060: issku2 with Tex_
+    2100062: issdish with Tex
+    2100064: issku1 with Tex_
+    2100066: issku with Tex__
+    2100068: issb4 with Tex__
+    2100070: isssolar with Te
+    2100072: issb2 with Tex__
+    2100074: isszmod with Tex
+    2100076: issb3 with Tex__
+    2100078: issdot with Tex_
+    2100080: issp2 with Tex__
+    2100082: issb with Tex_ I
+    2100084: isspanel with Te
+    2100086: d_ring with Tex_
+    2100088: iss_dcs with Tex
+    2100090: iss_dc with Tex_
+    2300000: iss_d_ring
+    2300002: iss_graple
+    2300004: iss_iss_d0
+    2300006: iss_iss_dc
+    2300008: iss_iss_un
+    2300010: iss_issb2_
+    2300012: iss_issb3_
+    2300014: iss_issb4_
+    2300016: iss_issb_7
+    2300018: iss_issbs0
+    2300020: iss_issbs_
+    2300022: iss_issbso
+    2300024: iss_issco0
+    2300026: iss_isscov
+    2300028: iss_isscup
+    2300030: iss_issdis
+    2300032: iss_issdot
+    2300034: iss_issesa
+    2300036: iss_isshan
+    2300038: iss_issins
+    2300040: iss_issku0
+    2300042: iss_issku1
+    2300044: iss_issku2
+    2300046: iss_issku3
+    2300048: iss_issku4
+    2300050: iss_issku_
+    2300052: iss_issmb_
+    2300054: iss_issmod
+    2300056: iss_issp20
+    2300058: iss_issp21
+    2300060: iss_issp2_
+    2300062: iss_isspan
+    2300064: iss_issrad
+    2300066: iss_issred
+    2300068: iss_isssol
+    2300070: iss_issus1
+    2300072: iss_issusa
+    2300074: iss_isszmo
+    2300076: iss_metalc
+    2300078: iss_nasda_
+    2300080: iss_questc
+    2300082: mesh858
+    2300084: mesh859
+    2300086: mesh860
+    2300088: mesh861
+    2300090: mesh862
+    2300092: mesh863
+    2300094: mesh864
+    2300096: mesh865
+    2300098: mesh866
+    2300100: mesh867
+    2300102: mesh868
+    2300104: mesh869
+    2300106: mesh870
+    2300108: mesh871
+    2300110: mesh872
+    2300112: mesh873
+    2300114: mesh874
+    2300116: mesh875
+    2300118: mesh876
+    2300120: mesh877
+    2300122: mesh878
+    2300124: mesh879
+    2300126: mesh880
+    2300128: mesh881
+    2300130: mesh882
+    2300132: mesh883
+    2300134: mesh884
+    2300136: mesh885
+    2300138: mesh886
+    2300140: mesh887
+    2300142: mesh888
+    2300144: mesh889
+    2300146: mesh890
+    2300148: mesh891
+    2300150: mesh892
+    2300152: mesh893
+    2300154: mesh894
+    2300156: mesh895
+    2300158: mesh896
+    2300160: mesh897
+    2300162: mesh898
+    2300164: mesh899
+    2300166: mesh900
+    2300168: mesh901
+    2300170: mesh902
+    2300172: mesh903
+    2300174: mesh904
+    2300176: mesh905
+    2300178: mesh906
+    2300180: mesh907
+    2300182: mesh908
+    2300184: mesh909
+    2300186: mesh910
+    2300188: mesh911
+    2300190: mesh912
+    2300192: mesh913
+    2300194: mesh914
+    2300196: mesh915
+    2300198: mesh916
+    2300200: mesh917
+    2300202: mesh918
+    2300204: mesh919
+    2300206: mplm_issle
+    2300208: mplm_issus
+    3300000: iss_d_ring
+    3300002: iss_graple
+    3300004: iss_iss_d0
+    3300006: iss_iss_dc
+    3300008: iss_iss_un
+    3300010: iss_issb2_
+    3300012: iss_issb3_
+    3300014: iss_issb4_
+    3300016: iss_issb_7
+    3300018: iss_issbs0
+    3300020: iss_issbs_
+    3300022: iss_issbso
+    3300024: iss_issco0
+    3300026: iss_isscov
+    3300028: iss_isscup
+    3300030: iss_issdis
+    3300032: iss_issdot
+    3300034: iss_issesa
+    3300036: iss_isshan
+    3300038: iss_issins
+    3300040: iss_issku0
+    3300042: iss_issku1
+    3300044: iss_issku2
+    3300046: iss_issku3
+    3300048: iss_issku4
+    3300050: iss_issku_
+    3300052: iss_issmb_
+    3300054: iss_issmod
+    3300056: iss_issp20
+    3300058: iss_issp21
+    3300060: iss_issp2_
+    3300062: iss_isspan
+    3300064: iss_issrad
+    3300066: iss_issred
+    3300068: iss_isssol
+    3300070: iss_issus1
+    3300072: iss_issusa
+    3300074: iss_isszmo
+    3300076: iss_metalc
+    3300078: iss_nasda_
+    3300080: iss_questc
+    3300082: mesh858
+    3300084: mesh859
+    3300086: mesh860
+    3300088: mesh861
+    3300090: mesh862
+    3300092: mesh863
+    3300094: mesh864
+    3300096: mesh865
+    3300098: mesh866
+    3300100: mesh867
+    3300102: mesh868
+    3300104: mesh869
+    3300106: mesh870
+    3300108: mesh871
+    3300110: mesh872
+    3300112: mesh873
+    3300114: mesh874
+    3300116: mesh875
+    3300118: mesh876
+    3300120: mesh877
+    3300122: mesh878
+    3300124: mesh879
+    3300126: mesh880
+    3300128: mesh881
+    3300130: mesh882
+    3300132: mesh883
+    3300134: mesh884
+    3300136: mesh885
+    3300138: mesh886
+    3300140: mesh887
+    3300142: mesh888
+    3300144: mesh889
+    3300146: mesh890
+    3300148: mesh891
+    3300150: mesh892
+    3300152: mesh893
+    3300154: mesh894
+    3300156: mesh895
+    3300158: mesh896
+    3300160: mesh897
+    3300162: mesh898
+    3300164: mesh899
+    3300166: mesh900
+    3300168: mesh901
+    3300170: mesh902
+    3300172: mesh903
+    3300174: mesh904
+    3300176: mesh905
+    3300178: mesh906
+    3300180: mesh907
+    3300182: mesh908
+    3300184: mesh909
+    3300186: mesh910
+    3300188: mesh911
+    3300190: mesh912
+    3300192: mesh913
+    3300194: mesh914
+    3300196: mesh915
+    3300198: mesh916
+    3300200: mesh917
+    3300202: mesh918
+    3300204: mesh919
+    3300206: mplm_issle
+    3300208: mplm_issus
+    4300000: iss_issmod
+    4300002: mesh919
+    4300004: mesh918
+    4300006: mesh917
+    4300008: mesh916
+    4300010: mesh915
+    4300012: mesh914
+    4300014: mesh913
+    4300016: mesh912
+    4300018: mesh911
+    4300020: mesh910
+    4300022: mesh909
+    4300024: mesh908
+    4300026: mesh907
+    4300028: mesh906
+    4300030: mesh905
+    4300032: mesh904
+    4300034: mesh903
+    4300036: mesh902
+    4300038: mesh901
+    4300040: mesh900
+    4300042: mesh899
+    4300044: mesh898
+    4300046: mesh897
+    4300048: mesh896
+    4300050: mesh895
+    4300052: mesh894
+    4300054: mesh893
+    4300056: mesh892
+    4300058: mesh891
+    4300060: mesh890
+    4300062: mesh889
+    4300064: mesh888
+    4300066: mesh887
+    4300068: mesh886
+    4300070: mesh885
+    4300072: mesh884
+    4300074: mesh883
+    4300076: mesh882
+    4300078: mesh881
+    4300080: mesh880
+    4300082: mesh879
+    4300084: mesh878
+    4300086: mesh877
+    4300088: mesh876
+    4300090: mesh875
+    4300092: mesh874
+    4300094: mesh873
+    4300096: mesh872
+    4300098: mesh871
+    4300100: mesh870
+    4300102: mesh869
+    4300104: mesh868
+    4300106: mesh867
+    4300108: mesh866
+    4300110: mesh865
+    4300112: mesh864
+    4300114: mesh863
+    4300116: mesh862
+    4300118: mesh861
+    4300120: mesh860
+    4300122: mesh859
+    4300124: mesh858
+    4300126: iss_isscov
+    4300128: mplm_issle
+    4300130: mplm_issus
+    4300132: iss_issus1
+    4300134: iss_issred
+    4300136: iss_issku4
+    4300138: iss_issp20
+    4300140: iss_issku3
+    4300142: iss_issp21
+    4300144: iss_iss_un
+    4300146: iss_isshan
+    4300148: iss_issco0
+    4300150: iss_graple
+    4300152: iss_questc
+    4300154: iss_issins
+    4300156: iss_metalc
+    4300158: iss_isscup
+    4300160: iss_issbs_
+    4300162: iss_issesa
+    4300164: iss_issrad
+    4300166: iss_nasda_
+    4300168: iss_issusa
+    4300170: iss_issmb_
+    4300172: iss_issbs0
+    4300174: iss_issbso
+    4300176: iss_issku0
+    4300178: iss_issku2
+    4300180: iss_issdis
+    4300182: iss_issku1
+    4300184: iss_issku_
+    4300186: iss_issb4_
+    4300188: iss_isssol
+    4300190: iss_issb2_
+    4300192: iss_isszmo
+    4300194: iss_issb3_
+    4300196: iss_issdot
+    4300198: iss_issp2_
+    4300200: iss_issb_7
+    4300202: iss_isspan
+    4300204: iss_d_ring
+    4300206: iss_iss_d0
+    4300208: iss_iss_dc
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 19 - Default
+    second: {fileID: 2100000, guid: c71c0cc125458f14cab84c6100b57fc4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default
+    second: {fileID: 2100000, guid: d65ea1fde93112042ac5f72c918833c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material1
+    second: {fileID: 2100000, guid: a1bace6fd58e4e34db63c3e149f1a9a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material2
+    second: {fileID: 2100000, guid: 90ea531ee2e208a468b94227161952d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material3
+    second: {fileID: 2100000, guid: 5192d197066d39445baad6503b567923, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bluebg
+    second: {fileID: 2100000, guid: 0364788dbeca55649b4e7b42f2b77742, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: d_ring with Tex_
+    second: {fileID: 2100000, guid: ac4556f73aa80ae4cb9c03677b57dbe2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: graple with Tex_
+    second: {fileID: 2100000, guid: 5166c1b3e79dfca448d025076eddc707, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: iss_dc with Tex_
+    second: {fileID: 2100000, guid: 7336bfa679957f94dbc4510bed3f95eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: iss_dcs with Tex
+    second: {fileID: 2100000, guid: ad5f2abbe7334fa42b3f20abf82cd556, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: iss_un with Tex_
+    second: {fileID: 2100000, guid: f607ae3a6ffe83a4a90b819a88a47d07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: issb with Tex_ I
+    second: {fileID: 2100000, guid: d8e473f7dce88304bb66bd990730f5af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: issb2 with Tex__
+    second: {fileID: 2100000, guid: d529639965863d847a7768fed435d572, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: issb3 with Tex__
+    second: {fileID: 2100000, guid: ce6fb23b9d2480f46b11cef0d573536d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: issb4 with Tex__
+    second: {fileID: 2100000, guid: dc4e1131d827e754485704a39ec6f441, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: issbs with Tex__
+    second: {fileID: 2100000, guid: 55269ed2b5bac594b90f39f1889c35c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: issbso with Tex_
+    second: {fileID: 2100000, guid: bf130f36a0d220c41ae22654e7572218, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: issbso2 with Tex
+    second: {fileID: 2100000, guid: 2088d705e58027c4ab3bb4952cec4c83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: isscov2 with Tex
+    second: {fileID: 2100000, guid: ff1a0774625487f40a665390931ba1e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: isscover with Te
+    second: {fileID: 2100000, guid: 349f3c626e980e848951a34a05c42d78, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: isscup with Tex_
+    second: {fileID: 2100000, guid: 6bdca9d4cad67304ca8ceb6826cf1629, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: issdish with Tex
+    second: {fileID: 2100000, guid: 351b232a091ef824fa3cebad166e6932, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: issdot with Tex_
+    second: {fileID: 2100000, guid: 3c5cb2165b5622644bfcf44a23568ed6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: issesa with Tex_
+    second: {fileID: 2100000, guid: c17dfd7f4c8036a468e0fdf8a00f5992, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: isshand with Tex
+    second: {fileID: 2100000, guid: 90ef5aed3a9bb994c99812d1ee9f1205, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: issins with Tex_
+    second: {fileID: 2100000, guid: fd90614c36ca7704c8faf31f288750ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: issku with Tex__
+    second: {fileID: 2100000, guid: 64018f92d01dd0444a56621de1f5b2f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: issku1 with Tex_
+    second: {fileID: 2100000, guid: 01a5c2b81a9445640be620f234c5d6ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: issku2 with Tex_
+    second: {fileID: 2100000, guid: e788dee022278dd48a5210b10c50161a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: issleo with Tex_
+    second: {fileID: 2100000, guid: 62046a0898f4d0642b177b7112dd5006, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: issmb with Tex__
+    second: {fileID: 2100000, guid: fb64de883f5aa6f489501aeea70cd378, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: issmod with Tex_
+    second: {fileID: 2100000, guid: 67b28e674cf33104d95487d7ab4e2965, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: issp2 with Tex__
+    second: {fileID: 2100000, guid: 561008e02e709fe4ebfd6dc6c378dede, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: isspanel with Te
+    second: {fileID: 2100000, guid: 2be2629ce8312df45b4a85f07ebdfa48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: issrad with Tex_
+    second: {fileID: 2100000, guid: fb1000732c8f81a468d1107941e01fe1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: issred with Tex_
+    second: {fileID: 2100000, guid: cd5301ac6a2392c4eb836a82e30089c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: isssolar with Te
+    second: {fileID: 2100000, guid: 5d7089b1a1be4d94f90f9ea4eec6cc84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: issusa with Tex_
+    second: {fileID: 2100000, guid: c9dbec4b7b8274940a17cd87472642bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: issusaf with 1
+    second: {fileID: 2100000, guid: c53e0c90cefeeb14b97e37359254426f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: issusaf with Tex
+    second: {fileID: 2100000, guid: 7856df8d84501984e9f74388d8f49086, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: isszmod with Tex
+    second: {fileID: 2100000, guid: 987b5aa26655b9b4db28d351cb935c62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material04
+    second: {fileID: 2100000, guid: 5eb23d52b7168c74a8b8b9bd4e6fcacb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metalcon with Te
+    second: {fileID: 2100000, guid: e558d3db0926e9b4e9c44bd173d7d1c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nasda with Tex__
+    second: {fileID: 2100000, guid: 410156dbe2af3724aade7a4551a8e845, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: questcov with Te
+    second: {fileID: 2100000, guid: 2f570ede782c6b44f8848d0959b0a28f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: white
+    second: {fileID: 2100000, guid: 9b04c96b661f25449b1491d48474e7e1, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
